@@ -25,6 +25,12 @@
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
  * скриншоты с успешно собранными сборками.
  
+![image](https://user-images.githubusercontent.com/106932460/212380442-11e6b3ed-ac89-4a3e-a45e-8c4b428c494a.png)
+![image](https://user-images.githubusercontent.com/106932460/212380592-0c128228-d04d-46fb-ab43-bc8481c1eb62.png)
+
+Чтобы runner смог запускаться поставил галочку
+
+![image](https://user-images.githubusercontent.com/106932460/212380523-c4146e4b-9828-4e3f-b363-31f73935c54c.png)
  
 ---
 ## Дополнительные задания* (со звёздочкой)
