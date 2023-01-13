@@ -8,6 +8,7 @@
 проект и пустой репозиторий в нём. 
 3. Зарегистрируйте gitlab-runner для этого проекта и запустите его в режиме Docker. Раннер можно регистрировать и запускать на той же виртуальной машине, 
 на которой запущен GitLab.
+
 ![image](https://user-images.githubusercontent.com/106932460/211937409-69b67932-5f0a-4cc3-a186-8b7ae9db4708.png) 
 ![image](https://user-images.githubusercontent.com/106932460/211937528-8ce6fd98-c39b-4b7e-bcc5-9473b0142d95.png)
 
